@@ -1,0 +1,14 @@
+particlesJS("particles-js",{
+particles:{
+number:{value:80},
+size:{value:3},
+color:{value:"#4da6ff"},
+line_linked:{
+enable:true,
+color:"#4da6ff"
+},
+move:{
+speed:2
+}
+}
+}); 
